@@ -1,0 +1,39 @@
+Examination - Individuell reflektionsuppgift 
+
+ 
+
+MaaS handlar helt enkelt om tillgänglighet. Vi jobbar på att skapa sätt att resa sömlöst utan avbrott där varje resa är personlig. Meningen är att vi ska kunna planera, boka och köpa våran resa hela vägen från A till B oavsett om det är via bil, buss, tåg eller flygplan från en o samma app i telefonen. 
+
+ 
+
+Back-end utvecklare är dem som skapar själva systemet och funktionerna som sedan skall interagera med varandra från appen till fordonen, bokningssystemen till bank för att köpa sin biljett exempelvis. Alla sensorer och kommunikation som skall finnas i de självkörande bilar är något som en back-end utvecklar. Det innebär givetvis att back-end behöver ha ett tätt samarbete med front-end utvecklarna i organisationen då dem fokuserar på UI/UX som är otroligt viktigt för att slutkunden skall vilja använda produkten. 
+
+Det innebär att det är viktigt att en back-end är insatt i relevant dataspråk, arbetsmetod, kommunikation, samarbete men även relevant framework utifrån val av produkt och funktion i produkten. 
+
+Exempel på dataspråk kan vara Java, C++, C, Python, Ruby, Html5 CSS samt JavaScript etc. 
+
+Exempel på arbetsmetod kan vara Agile, Scrum, Waterfall etc. 
+
+Exempel på framework kan vara Java Spring, C++ Qt, Python Django, Ruby on Rails, Bootstrap, Node.js etc. 
+
+ 
+
+Eftersom vi vet vad en backend gör så vet vi också att produkten inte är helt färdig när backend utvecklaren har gjort sitt. Än så länge så är det bara massa koder som ingen kan använda. Nu måste front-end utvecklaren börja designa och bygga user interfacen med hjälp av att koppla ihop koden som backend utvecklaren har skrivit så att slutkunden kan använda och interagera med funktionerna som dem skapat. Därför är det väldigt viktigt att backend och front-end har ett tätt och gott samarbete för att underlätta mergningen mellan backend koden och front-end koden. På så vis sparar vi tid och pengar men även humöret. 
+
+ 
+
+ 
+
+För att MaaS ska kunna fortsätta utvecklas gäller det att backend utvecklarna håller sig uppdaterade på ny teknik, arbetsmetoder, språk men även trender. Det hjälper också att man även i sitt vardagsliv reflekterar över hur man använder olika system och färdtjänster. Lyssna på när andra lyfter sina åsikter om ämnen och/eller branscher du arbetar i där det kan komma till användning när du utvecklar ett system eller produkt där eventuellt dessa människor kommer att använda produkten.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Referens: 
+
+https://learntocodewith.me/posts/backend-development/ 
