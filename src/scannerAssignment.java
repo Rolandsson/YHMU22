@@ -19,7 +19,7 @@ public class scannerAssignment {
             String address = input.nextLine();
 
             System.out.println("Enter your number: ");
-            int number = input.nextInt();
+            String number = input.nextLine();
 
             System.out.println("Name: " + name + "\nAddress: " + address + "\nPhone number: " + number);
         }
